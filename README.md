@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Osama+%F0%9F%91%8B;Computer+Science+Graduate+%F0%9F%8E%93;Flutter+%26+AI+Developer+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Osama+%F0%9F%91%8B;Computer+Science+%F0%9F%8E%93;Flutter+%26+AI+Developer+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,8 +16,8 @@
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=OsamaALHajj&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/OsamaALHajj?label=Followers&style=for-the-badge&color=00d9ff&labelColor=000000" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-00d9ff?style=for-the-badge&labelColor=000000" alt="focus" />
+  <img src="https://img.shields.io/github/followers/OsamaALHajj?label=Followers&style=for-the-badge&color=00d9ff&labelColor=111111" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-00d9ff?style=for-the-badge&labelColor=111111" alt="focus" />
 
 </div>
 
