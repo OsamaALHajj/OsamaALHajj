@@ -35,13 +35,14 @@ const osama = {
     
     currentlyWorkingOn: [
         "🦈 Shark-Space — Investor & Entrepreneur Platform",
+        "🌟 Awesome Arabic AI — Curated Arabic AI Resources Hub",
         "🤖 AI-powered Computer Vision systems",
         "📱 Cross-platform Flutter applications"
     ],
     
     currentlyLearning: ["Advanced ML", "System Design", "Cloud Architecture"],
-    lookingToCollaborateOn: ["Open-source Flutter projects", "AI/ML research"],
-    askMeAbout: ["Flutter", "Dart", "Python", "AI/CV", "IT Support"],
+    lookingToCollaborateOn: ["Open-source Flutter projects", "AI/ML research", "Arabic NLP"],
+    askMeAbout: ["Flutter", "Dart", "Python", "AI/CV", "Arabic AI", "IT Support"],
     
     funFact: "I turn caffeine ☕ into clean, maintainable code 💻",
     motto: "Code with purpose, learn without limits."
@@ -75,6 +76,7 @@ const osama = {
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Faster%20R--CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ### 🗄️ Databases & Backend
@@ -106,6 +108,16 @@ const osama = {
   <tr>
     <td width="50%" valign="top">
       
+   ### 🌟 [Awesome Arabic AI](https://github.com/OsamaALHajj/awesome-arabic-ai)
+   **Curated Arabic AI Resources Hub**
+   
+   The most comprehensive open-source reference for Arabic AI — 110+ resources across LLMs, datasets, benchmarks, speech, OCR, tools, and research for 400M+ Arabic speakers.
+   
+   `Awesome List` `Arabic NLP` `LLMs` `Open Source` `Community`
+    
+   </td>
+    <td width="50%" valign="top">
+      
    ### 🦈 [Shark-Space](https://github.com/OsamaALHajj/Shark-Space)
    **Investor & Entrepreneur Platform**
    
@@ -114,6 +126,8 @@ const osama = {
    `Flutter` `Dart` `Supabase` `Riverpod` `go_router`
     
    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       
    ### 😷 [Face Mask AI](https://github.com/OsamaALHajj/FaceMaskAI)
@@ -124,8 +138,6 @@ const osama = {
    `Python` `PyTorch` `OpenCV` `Faster R-CNN`
    
   </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       
    ### 📚 English Learning Filter Apps
@@ -136,6 +148,8 @@ const osama = {
    `Flutter` `Dart` `Mobile UX`
    
   </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       
    ### 🏢 [IOAPP Contributions](https://github.com/OsamaALHajj)
@@ -144,6 +158,11 @@ const osama = {
    Ongoing contributions to multiple internal & client-facing projects at Input-Output-Application — building reliable, maintainable software.
    
    `C#` `Python` `Flutter` `Multi-domain`
+   
+  </td>
+    <td width="50%" valign="top">
+      
+   <!-- مساحة لمشروع قادم -->
    
   </td>
   </tr>
@@ -192,8 +211,9 @@ const osama = {
 ## 💼 Currently
 
 🔭 **Working as:** Software Developer @ [IOAPP](https://github.com/OsamaALHajj) *(2022 – Present)*  
+🌟 **Maintaining:** [Awesome Arabic AI](https://github.com/OsamaALHajj/awesome-arabic-ai) — a community-driven hub for Arabic AI resources  
 🛠️ **Freelancing:** Software Development & IT Support *(2020 – Present)*  
-🌱 **Exploring:** Advanced Machine Learning, Cloud-native architectures, and scalable Flutter patterns  
+🌱 **Exploring:** Advanced Machine Learning, Arabic NLP, Cloud-native architectures, and scalable Flutter patterns  
 💡 **Open to:** Remote opportunities, open-source collaboration, and AI/Mobile engineering roles
 
 ---
